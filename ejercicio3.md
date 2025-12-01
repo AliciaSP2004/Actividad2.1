@@ -35,7 +35,7 @@ Durante la modificación de los archivos he comprobado en varias ocasiones que t
 - #### _config.yml
 El primer archivo que he modificado es el *_config.yml* donde he modificado *title* para ponerle a la página un título acorde al tema del que va a tratar que en este caso será Pokemon,*username* para poner mi usuario de GitHub, *email* para poner mi email, *description* para poner una breve descripción para la página, *url*para poner la url que tendrá la página web que en este caso sera **"https://info-pokemon-iaw.netlify.app"** y *aboutme* en el que he puesto una breve descripción del autor que en este caso soy yo.
 
-![config.yml](./imagenes/3-config.yml.png) 
+![config.yml](./Imagenes/3-config.yml.png) 
 - #### category.html
 También he modificado el archivo *category.html* cambiando ```<span class="category-subtitle">Busca la categoría</span>``` para que en el buscador de categorías salga el texto en castellano.
 
