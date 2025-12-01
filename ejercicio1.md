@@ -27,7 +27,7 @@ A continuación he conectado el repositorio local con el remoto creado anteriorm
 ### Paso 3: Crear el sitio en Jekyll
 El tercer paso es crear el sitio en Jekyll para lo cual ha utilizado el comando ```jekyll new .```, en este caso no hará falta realizar ningún paso extra para utilizar el tema mínima puesto que es el tema que utiliza por defecto Jekyll.    
 
-![Paso3](./Imagenes/1-paso3.png) 
+![Paso3](./Imagenes/1-paso3.PNG) 
 
 ![Paso3.1](./Imagenes/1-paso3.1.png) 
 ### Paso 4: Modificar los archivos
