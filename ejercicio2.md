@@ -66,7 +66,7 @@ Otro documento que he modificado ha sido el settings.yml que se encuentra dentro
 - #### Imágenes
 Para añadir las imágenes a los archivos Markdown y que no haya errores he añadidos las imagenes a la carpeta *img* que se encuentra dentro de la carpeta *accets*.
 
-![imagenes](./Imagenes/2-imagenes.png)
+![imagenes](./Imagenes/2-imagenes.PNG)
 ### Paso 4: Guardar y subir el trabajo
 Para conseguir que las modificaciones que he hecho el local se representen en el sitio web he utilizado el comando ```git add .``` para preparar los cambios, el comando ```git commit -m “Cambios realizados”``` para guardar los cambios y el comando ```git push origin gh-pages``` para subir los cambios al repositorio de GitHub.  
 
