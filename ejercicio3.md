@@ -13,7 +13,7 @@ Por ultimo habrá que usar el comando ```gem install bundler Jekyll``` para inst
 ### Paso 1: Crear el repositorio en GitHub
 El primer paso será ir a la página web de *jekyll themes* y buscar el tema deseado que en este caso será **tranquil-theme**, después habrá que seleccionarle tras lo cual habrá que clicar en *download* para habrir el repositorio en GitHub del creador de **tranquil-theme**.     
 
-![Paso1](./imagenes/3-paso1.png)    
+![Paso1](./Imagenes/3-paso1.png)    
 
 A continuación habrá que hacer un fork al repositorio de **tranquil-theme** para lo cual habrá que seleccionar la opción *fork* que se encuentra en la zona superior derecha y darle a *New fork* tras lo cual saldrá una pestaña con una serie de campos los cuales son *Repository name* donde pondré el nombre que deseo ponerle al repositorio, *Description* donde pondré una breve descripción del repositorio y además seleccionaré la opción *Copy the gh-pages branch only* para que solo copie la información que se encuentra en la rama gh-pages. Por último, habrá que clicar en *Create frork* para terminar el fork.    
 
